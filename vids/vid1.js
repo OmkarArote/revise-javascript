@@ -7,4 +7,4 @@ function add3no(a, b, c) {
 }
 
 d = add3no(5, 6, 9);
-console.log('we added 3 no.: ' + d);
+console.log('We Added 3 No.: ' + d);
